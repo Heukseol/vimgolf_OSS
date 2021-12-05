@@ -123,7 +123,7 @@ $ vimgolf put 9v0060da5177000000000209
   
 `ZZ`: 저장 후 종료
 
-### Python dataclasses
+### 5. Python dataclasses
 $ vimgolf put 6013804df3308e0009368f1c
   
 ![5](https://user-images.githubusercontent.com/68629440/144739861-4f4e94ab-b7b8-4725-aa76-c1904c027f44.gif)
