@@ -1,5 +1,5 @@
 # vimgolf_OSS
-vimgolf_OSS
+
 
 ### 1. Add quotes to ansible playbook
 $ vimgolf put 5f0f5fbe280fbf000c233304
