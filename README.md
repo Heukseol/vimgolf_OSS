@@ -122,3 +122,26 @@ $ vimgolf put 9v0060da5177000000000209
 `k`: 위로 이동
   
 `ZZ`: 저장 후 종료
+
+### Python dataclasses
+$ vimgolf put 6013804df3308e0009368f1c
+  
+![5](https://user-images.githubusercontent.com/68629440/144739861-4f4e94ab-b7b8-4725-aa76-c1904c027f44.gif)
+
+`Gbas<C-N><C-N>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ`
+* 점수: 19
+* 설명
+
+`G`: 마지막 줄로 이동
+  
+`b`: 이전 단어로 이동
+  
+`a`: 커서 다음 자리부터 편집 모드 실행
+
+`<C-N>`: 자동 완성 (s<C-N>은 s로 시작하는 단어를 자동완성 함)
+  
+이후 각 단어들의 첫글자를 입력하고 `<C-N>`으로 자동 완성을 함. (단, score는 student와 겹치기 때문에 sc까지 입력)  
+
+`<Esc>`: 편집모드 나가기
+  
+`ZZ`: 저장 후 종료
